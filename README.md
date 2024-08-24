@@ -31,19 +31,14 @@ The dataset includes information about:
    - Gradient Boosting
 5. **Model Evaluation**: Used RMSE and R-squared to assess model performance.
 6. **Prediction**: Applied the best-performing model to predict sales on test data.
-
-## Key Findings
-- [Include 2-3 main insights from your analysis]
-
-## Future Work
-- [Mention 1-2 ideas for improving the model or extending the analysis]
+7. obtained the accuracy of 98% using XG boost regression technique
 
 ## Tools Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- [Any other relevant libraries or tools]
+- XG boost regression model
 
 ```
 
-Would you like me to expand on any section of this README description?
+
